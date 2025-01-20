@@ -1,0 +1,28 @@
+* {
+  max-width: 1920px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(244, 245, 249);
+}
+
+.pt-sans-regular {
+  font-family: "PT Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-sans-bold {
+  font-family: "PT Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
